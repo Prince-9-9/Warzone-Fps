@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{FBE77BFB-1BB9-6673-AA2A-1D686D16D748}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cbcbce27-fbe5-4aa4-bde4-5f13f6ccdc43" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CameraRecoil.cs" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="13" Column="30" />
+      <File FileName="Assets/Scripts/InteractionSystem/Box.cs" />
+      <File FileName="Assets/Scripts/InteractionSystem/Interactor.cs" />
+      <File FileName="Assets/Scripts/Gun.cs" />
+      <File FileName="Assets/Scripts/Recoil.cs" />
+      <File FileName="Assets/Scripts/MouseLook.cs" />
+      <File FileName="Assets/Scripts/InteractionSystem/IInteractable.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
