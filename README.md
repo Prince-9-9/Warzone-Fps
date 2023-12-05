@@ -73,6 +73,8 @@ We welcome contributions from the community! Whether you want to report a bug, r
 
 6. Open a pull request to the `main` branch of the original repository.
 
+## Note
+Work on prefabs while implementing a feature and not on the scene, this will help in collaborating easily.
 
 ## Acknowledgments
 
