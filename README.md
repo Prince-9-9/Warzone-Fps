@@ -30,7 +30,7 @@ Welcome to my 3D FPS game! This is an open-source first-person shooter (FPS) gam
 2. **Clone Your Fork:**
 
     ```bash
-    git clone https://github.com/your-username/3d-fps-game.git
+    git clone https://github.com/your-username/warzone-fps.git
     ```
 
 3. **Open the Project in Unity Hub.**
@@ -49,7 +49,7 @@ We welcome contributions from the community! Whether you want to report a bug, r
 2. Clone your forked repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/3d-fps-game.git
+    git clone https://github.com/your-username/warzone-fps.git
     ```
 
 3. Create a new branch for your feature or bug fix:
